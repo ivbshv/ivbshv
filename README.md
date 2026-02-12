@@ -29,13 +29,6 @@
 
 ---
 
-## 📊 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivbshv&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Связаться со мной
 
